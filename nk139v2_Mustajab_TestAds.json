@@ -1,0 +1,124 @@
+﻿
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "Data":   
+[
+    {
+        "id": "1",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 1",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril1.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "2",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 2",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril2.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "3",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 3",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril3.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "4",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 4",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril4.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "5",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 5",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril5.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "6",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 6",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril6.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "7",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 7",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril7.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "8",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 8",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril8.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "9",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 9",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril9.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "10",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 10",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril10.ogg",
+        "lyrics": ""
+    },
+    {
+        "id": "11",
+        "name_category": "Sholawat Jibril Penarik Rezeki Paling Mustajab Nonstop 1-Jam",
+        "title": "Sholawat Jibril - 11",
+        "image": "https://5jacobdev.xyz/nk139-jibrilmustajab/139.image_PLAY1.jpg",
+        "link_mp3": "https://archive.org/download/bacaan-jibril-1/Bacaan-Jibril11.ogg"
+    }
+]
+
+}
+
